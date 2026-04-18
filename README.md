@@ -10,17 +10,15 @@ I love exploring new technologies — recently, I’ve been learning **Go (Golan
 ## 🧠 About Me
 
 - 💼 **Software Engineer** at **Take Off Labs** (previously at **Rodeapps**)  
-- 🎓 **Computer Science student** at *Babeș-Bolyai University* (3rd year)  
 - 💡 Experienced in **distributed systems**, **microservices**, and **algorithm optimization**  
-- 💬 Currently learning **Go**, focusing on concurrency and backend design patterns  
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages:** Go (learning), Java, C/C++, Python, JavaScript  
-**Frameworks:** Spring Boot, Ruby on Rails, React, Angular  
-**Databases:** PostgreSQL, Elasticsearch  
+**Languages:** Go, Java, Javascript, Ruby 
+**Frameworks:** Spring Boot, Ruby on Rails, React, Angular
+**Databases:** PostgreSQL, Elasticsearch
 **Tools:** Docker, Kafka, AWS, Git, Linux  
 
 ---
