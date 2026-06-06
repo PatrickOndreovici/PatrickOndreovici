@@ -14,7 +14,7 @@ I love exploring new technologies — recently, I’ve been learning **Go (Golan
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 **Languages:** Go, Java, Javascript, Ruby 
 **Frameworks:** Spring Boot, Ruby on Rails, React, Angular
