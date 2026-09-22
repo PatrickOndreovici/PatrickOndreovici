@@ -16,6 +16,5 @@ I primarily work with **Go, Java, and Ruby**, and I'm currently spending more ti
 
 ### Elsewhere
 
-* [GitHub](https://github.com/PatrickOndreovici)
 * [LinkedIn](https://linkedin.com/in/patrick-ondreovici-0131b11b3)
 * [Email](mailto:ondreovicip@gmail.com)
